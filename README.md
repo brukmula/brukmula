@@ -1,6 +1,13 @@
-Hi 👋 My name is Bruk Mulatu
-============================Software Engineer-----------------Hi, I'm Bruk Mulatu, a computer science student at LeTourneau University. I have a strong interest in software engineering and a drive to succeed. Throughout my academic and project-based experiences, I have gained proficiency in programming languages such as Java, HTML/CSS, C++, Python, and JavaScript* 🌍  I'm based in United States and Ethiopia* ✉️  You can contact me at [bruksimon@gmail.com](mailto:bruksimon@gmail.com)* 🤝  I'm open to collaborating on Interesting Projects
+<h1>Welcome to my Github Profile!</h1>
 
+
+I am a computer science student at LeTourneau University with a strong interest in software engineering. On my Github, you will find a portfolio of my projects and contributions to open-source projects.
+
+Please feel free to explore my repository, where you will find projects ranging from website design to interactive games. You will also see my implementation of various programming languages such as Java, HTML/CSS, C++, Python, and JavaScript.
+
+If you have any questions or suggestions, feel free to reach out to me through my Github profile or email. I am always open to feedback and opportunities to collaborate on new projects.
+
+Thank you for visiting my Github profile, and I hope you find my projects interesting and informative!
 ### Skills
 
 
