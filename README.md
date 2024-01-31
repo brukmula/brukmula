@@ -1,7 +1,7 @@
 <h1>Welcome to my Github Profile!</h1>
 
 
-I am a computer science student at LeTourneau University with a strong interest in software engineering. On my Github, you will find a portfolio of my projects and contributions to open-source projects.
+I am a Software Engineer based out of San Jose, California. On my Github, you will find a portfolio of my projects and contributions to open-source projects.
 
 Please feel free to explore my repository, where you will find projects ranging from website design to interactive games. You will also see my implementation of various programming languages such as Java, HTML/CSS, C++, Python, and JavaScript.
 
